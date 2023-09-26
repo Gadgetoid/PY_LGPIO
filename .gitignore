@@ -1,0 +1,5 @@
+build
+dist
+lgpio.egg-info/
+lgpio.py
+lgpio_wrap.c

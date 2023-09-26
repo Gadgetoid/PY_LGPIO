@@ -1,0 +1,3 @@
+[submodule "lg"]
+	path = lg
+	url = https://github.com/gpiozero/lg
