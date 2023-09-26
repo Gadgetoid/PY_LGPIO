@@ -14,9 +14,19 @@ lgpio is a module for Linux Single Board Computers (SBC) which allows control of
 
 ## Installation
 
-pypy can not handle Linux libraries properly at the moment.
+You should install from pypi with:
 
-You need to install the lgpio module from the lg archive.
+```
+python -m pip install --upgrade lgpio
+```
 
-See http://abyz.me.uk/lg/download.html
+Alternatively, you can [grab the source distribution file from releases](https://github.com/Gadgetoid/PY_LGPIO/releases) and install with:
+
+```
+python -m pip install lgpio-0.2.2.0.tar.gz
+```
+
+## More Info & Documentation
+
+http://abyz.me.uk/lg/download.html
 
