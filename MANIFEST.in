@@ -1,3 +1,4 @@
+include lg/*.h
 include lg/lgFile.c
 include lg/lgSerial.c
 include lg/lgUtil.c
