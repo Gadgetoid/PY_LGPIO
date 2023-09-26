@@ -17,6 +17,7 @@ sources.append('lg/rgpiod.c')
 if os.path.isfile('lgpio_wrap.c'):
     sources.append('lgpio_wrap.c')
 else:
+    os
     sources.append('lgpio.i')
 
 print(sources)

@@ -19,8 +19,12 @@ include lg/lgThread.c
 include lg/lgScript.c
 include lg/lgPthSocket.c
 include lg/rgpiod.c
+include lg/PY_LGPIO/lgpio.i
+include lg/PY_LGPIO/lgpio_extra.py
 include lgpio.i
 include lgpio_wrap.c
+include lgpio.py
+include lgpio_extra.py
 include setup.py
 include README.md
 include LICENSE
