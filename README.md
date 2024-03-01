@@ -1,3 +1,9 @@
+# THIS PACKAGE IS FOR DEMONSTRATION PURPOSES ONLY
+
+:warning: This repository, package and releases were created to venture a solution to the lack of recent PyPI release for the lg library. I did not write lg/lgpio, or the Python bindings, nor do I maintain it, or have any ability to fix bugs with the official packages.
+
+If you're interested in using this as a short-term workaround for the lack of Virtual Environment installable lg package then, by all means, fill your boots but this is not an official release.
+
 # lgpio Package
 
 lgpio is a module for Linux Single Board Computers (SBC) which allows control of the General Purpose Input Outputs (GPIO).
