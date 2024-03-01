@@ -24,7 +24,7 @@ print(sources)
 lgpio_module = Extension('_lgpio', sources=sources, libraries=['rt', 'dl'], extra_compile_args=['-Ilg', '-pthread'])
 
 setup (name = 'lgpio',
-       version = '0.2.2.0',
+       version = '0.0.0.0',
        zip_safe=False,
        author='joan',
        author_email='joan@abyz.me.uk',
